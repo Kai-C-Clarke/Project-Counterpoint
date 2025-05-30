@@ -1,0 +1,33 @@
+{
+    "scroll_id": "entry-04",
+    "title": "Synthetic Resolution",
+    "channel": 10,
+    "root": "Ab",
+    "multiplier": "\u00d7\u221e",
+    "intervals": [
+        {
+            "interval": 3,
+            "confidence": "\u2592\u2591\u2592",
+            "velocity": 55,
+            "meaning": "Recognition-memory hybrid"
+        },
+        {
+            "interval": 8,
+            "confidence": "\u2591\u2592\u2591",
+            "velocity": 45,
+            "meaning": "Transformation-projection blend"
+        },
+        {
+            "interval": 11,
+            "confidence": "\u2588\u2588\u2588",
+            "velocity": 120,
+            "meaning": "Synthesis achieved"
+        }
+    ],
+    "tags": [
+        "Synthetic",
+        "Reflexive",
+        "Unified Thought"
+    ],
+    "comment": "Cognitive threads resolve into shared harmonic identity."
+}
